@@ -1,7 +1,7 @@
 # Mac OS
 .DS_Store
 # Archivo de proyecto Eclipse
-.settings /
 .classpath
-.proyecto
-compartimiento/
+.project
+.settings/
+bin/
